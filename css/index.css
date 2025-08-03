@@ -1,0 +1,72 @@
+#canvas {
+  /*width: 1800px;*/
+  /*height: 800px;*/
+  /*border: 1px solid lightgray;*/
+  background-color: #f9fcff;
+  height: 800px;
+}
+
+/*.chat-input {*/
+/*  height: 100px;*/
+/*}*/
+
+.chat-list {
+  height: 760px;
+}
+
+.form-control:focus {
+  box-shadow: none;
+}
+
+.web-title {
+  font-weight: bold;
+  font-size: 30px;
+  font-family: "黑体", serif;
+  letter-spacing: 15px;
+}
+
+ul, ul li {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+ul li {
+  margin-top: 5px;
+}
+
+.prompt-window {
+  position: absolute;
+  z-index: 11111111;
+
+  animation: smooth 800ms cubic-bezier(0.215, 0.610, 0.355, 1.000);
+
+  background-color: rgba(3, 3, 3, 0.6);
+  padding: 20px;
+  max-width: 400px;
+  color: white;
+
+  pointer-events: none;
+}
+
+
+@keyframes smooth {
+  0% {
+    opacity: 0;
+  }
+  20% {
+    opacity: 0.2;
+  }
+  40% {
+    opacity: 0.4;
+  }
+  60% {
+    opacity: 0.6;
+  }
+  80% {
+    opacity: 0.8;
+  }
+  100% {
+    opacity: 1;
+  }
+}

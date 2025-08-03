@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/css/bootstrap.min.css" rel="stylesheet"
+        integrity="sha384-GLhlTQ8iRABdZLl6O3oVMWSktQOp6b7In1Zl3/Jr59b6EGGoI1aFkw7cmDA6j6gD" crossorigin="anonymous">
+  <link rel="stylesheet" type="text/css" href="css/chat.css"/>
+  <title>苗医药问答机器人</title>
+</head>
+<body>
+<div class="container-fluid pb-3 align-items-center">
+  <div class="container-fluid d-grid gap-3 align-items-center">
+    <div class="d-flex align-items-center">
+      <div class="row chat-list">
+        <div class="container-fluid show-platform">
+          <!-- entry -->
+          <div class="chat-commento">
+            <!-- top -->
+            <div class="chat-top">
+              苗医药知识问答机器人
+              <span class="success" id="extra-content">初始化中...</span>
+            </div>
+            <!-- line -->
+            <div class="line"></div>
+            <div class="scrollspy-example" tabindex="0">
+              <!-- middle -->
+              <div class="chat-middle container-fluid" id="chat-middle-item">
+                <!-- 左边 -->
+                <div class="chat-left clearfix">
+                  <div class="chat-left-item-1 ">Ai</div>
+                  <div class="chat-left-item-2">
+                    <div class="chat-time">18:57</div>
+                    <div class="chat-left-content">
+                      今天吃点啥？
+                    </div>
+                  </div>
+                </div>
+                <!--右边 -->
+                <div class="chat-right clearfix">
+                  <div class="chat-right-item-1 ">问</div>
+                  <div class="chat-right-item-2 ">
+                    <div class="chat-right-time">18:59</div>
+                    <div class="chat-right-content">
+                      最近八合里周年庆店，咱们去薅羊毛呀
+                    </div>
+                  </div>
+                </div>
+                <!-- l-2 -->
+                <div class="chat-left clearfix">
+                  <div class="chat-left-item-1 ">Ai</div>
+                  <div class="chat-left-item-2">
+                    <div class="chat-time">18:57</div>
+                    <div class="chat-left-content">
+                      行收拾一下走吧，早点去排个号
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+
+            <div class="line"></div>
+
+            <!-- foot -->
+            <div class="chat-foot">
+              <!-- context -->
+              <textarea class="chat-context" id="chat-context-item" cols="30" rows="3"
+                        placeholder="请输入"></textarea>
+              <div class="chat-commit" id="button">发送</div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+</body>
+<script src="js/jQuery.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/axios/dist/axios.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/js/bootstrap.bundle.min.js"
+        integrity="sha384-/mhDoLbDldZc3qpsJHpLogda//BVZbgYuw6kof4u2FrCedxOtgRZDTHgHUhOCVim"
+        crossorigin="anonymous"></script>
+<script src="js/network.js"></script>
+<script src="js/chat.js"></script>
+</html>

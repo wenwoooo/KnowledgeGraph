@@ -1,0 +1,2 @@
+ffff1ffff
+fff	ffff咳嗽:Symptom	咳嗽:Effect

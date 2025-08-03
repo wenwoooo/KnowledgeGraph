@@ -1,0 +1,227 @@
+.chat-commento {
+  width: 600px;
+  height: 765px;
+  margin: auto;
+  border-radius: 10px;
+  /*border: 1px solid #f4f5f7;*/
+  /*box-shadow: rgba(0, 0, 0, 0.24) 0 3px 8px;*/
+  box-shadow: rgba(0, 0, 0, 0.1) 0 4px 12px;
+}
+
+/*.chat-commento:hover::-webkit-scrollbar-thumb {*/
+/*  background: rgba(0, 0, 0, 0.1);*/
+/*}*/
+
+/* 设置滚动条的样式 */
+::-webkit-scrollbar {
+  width: 1px;
+}
+
+/* 滚动槽 */
+::-webkit-scrollbar-track {
+  -webkit-box-shadow: inset 0 0 6px rgba(0, 0, 0, 0.1);
+  border-radius: 8px;
+}
+
+/* 滚动条滑块 */
+::-webkit-scrollbar-thumb {
+  border-radius: 10px;
+  background: rgba(0, 0, 0, 0);
+  -webkit-box-shadow: inset 0 0 6px rgba(0, 0, 0, 0.1);
+}
+
+.clearfix::after {
+  content: "";
+  display: block;
+  clear: both;
+  width: 0;
+  height: 0;
+  line-height: 0;
+  visibility: hidden;
+}
+
+/* top */
+.chat-top {
+  width: 100%;
+  height: 50px;
+  border-top-left-radius: 10px;
+  border-top-right-radius: 10px;
+  padding-left: 20px;
+  font-size: 20px;
+  line-height: 50px;
+  box-sizing: border-box;
+  font-weight: 550;
+  border-width: 0;
+}
+
+/* middle */
+/* 左边 */
+.chat-middle {
+  width: 600px;
+  height: 585px;
+  box-sizing: border-box;
+  overflow: auto;
+  border-width: 0;
+}
+
+.chat-left {
+  width: 100%;
+  /*height: 120px;*/
+  margin-top: 20px;
+}
+
+.chat-left-item-1 {
+  width: 50px;
+  height: 50px;
+  background-color: #649CA4;
+  float: left;
+  margin-top: 10px;
+  margin-left: 10px;
+  margin-right: 10px;
+  text-align: center;
+  line-height: 50px;
+  color: white;
+  border-radius: 25px;
+
+  font-size: 30px;
+  font-family: Impact, serif;
+}
+
+.chat-left-item-2 {
+  width: 75%;
+  /*height: 100px;*/
+  float: left;
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+
+.chat-left-item-2 .chat-left-chat {
+  float: left;
+}
+
+.chat-left-item-2 .chat-left-content {
+  padding: 15px;
+  margin-top: 10px;
+  background-color: #f4f5f7;
+  display: inline-block;
+  color: black;
+  border-radius: 0 10px 10px 10px;
+
+  white-space: pre-line;
+}
+
+/* 右边 */
+.chat-right {
+  width: 100%;
+  /*height: 120px;*/
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+
+.chat-right-item-1 {
+  width: 50px;
+  height: 50px;
+  background-color: #E7D1B2;
+  float: right;
+  margin-top: 10px;
+  margin-left: 10px;
+  margin-right: 10px;
+  text-align: center;
+  line-height: 50px;
+  color: white;
+  border-radius: 25px;
+
+  font-weight: bold;
+  font-size: 29px;
+  font-family: Microsoft YaHei, "微软雅黑", serif;
+}
+
+.chat-right-item-2 {
+  width: 75%;
+  /*height: 100px;*/
+  float: right;
+  margin-top: 10px;
+}
+
+.chat-right-time {
+  width: 100%;
+  text-align: right;
+}
+
+.chat-right-content {
+  float: right;
+  padding: 15px;
+  margin-top: 10px;
+  border-radius: 10px 0 10px 10px;
+  background-color: #198754;
+  color: white;
+
+  white-space: pre-line;
+}
+
+/* foot */
+.chat-foot {
+  width: 600px;
+  height: 130px;
+  border-bottom-left-radius: 10px;
+  border-bottom-right-radius: 10px;
+  position: relative;
+}
+
+.chat-context {
+  width: 100%;
+  height: 100%;
+  font-size: 17px;
+  box-sizing: border-box;
+  outline: none;
+  border-bottom-left-radius: 10px;
+  border-bottom-right-radius: 10px;
+  border-width: 0;
+  padding: 16px;
+}
+
+.chat-commit {
+  width: 80px;
+  height: 30px;
+  color: white;
+  background-color: #198754;
+  line-height: 30px;
+  text-align: center;
+  border-radius: 5px;
+  position: absolute;
+  right: 10px;
+  bottom: 20px;
+  margin-right: 10px;
+}
+
+.chat-commit:hover {
+  cursor: pointer;
+}
+
+.chat-context {
+  resize: none;
+}
+
+.chat-context::placeholder {
+  color: black;
+  font-weight: 500;
+}
+
+.line {
+  width: 100%;
+  border: 0 solid #f4f5f7;
+  border-top-width: 1px;
+}
+
+
+.success, .chat-left-content.error, .chat-right-content.error {
+  color: #198754;
+}
+
+.error, .chat-left-content.error, .chat-right-content.error {
+  color: #dc3545;
+}
+
+.chat-list {
+  margin: 60px auto 0;
+}

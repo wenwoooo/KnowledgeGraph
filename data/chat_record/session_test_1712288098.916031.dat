@@ -1,0 +1,8 @@
+1 什么药能舒经通络、活血化瘀
+2 2 治疗方案	Effect:活血化瘀 舒经通络
+1 痰液色黄是什么病
+2 0 病情诊断	Effect:病	Symptom:痰液色黄
+1 介绍一下一串红
+2 10 其他	MedicineName:一串红
+1 我有些头痛
+2 10 其他	Illness:头痛	Effect:头痛	Symptom:头痛	Disease:头痛
