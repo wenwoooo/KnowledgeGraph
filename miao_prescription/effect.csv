@@ -1,0 +1,818 @@
+id,illness,sound,alias,effect
+0,热经头昏目眩症,khangd vut hvent baix dul,汗吾窝摆都,滋阴降火
+1,热经头昏目眩症,khand vat sand bud diuf,汗吾汕布丢,滋肝补肾
+2,冷病血虚目眩症,khangd vut hvent baix dul,汗吾窝摆都,滋阴降火
+3,冷病血虚目眩症,khand vat sand bud diuf,汗吾汕布丢,滋肝补肾
+4,冷经气虚头昏目眩症,as jent jul ghad ngol,滇劫阶哈格,祛风化痰
+5,冷经气虚头昏目眩症,bud hongt yis hxangd,布笨怡象,补气养血
+6,热经中邪,baix bongt vex hxangd,摆笨维象,清热除邪
+7,热经中邪,khangd vut hvent qeb jiand,汗吾渥曲靳,滋阴生津
+8,冷病中邪,bud hongt yis hxangd,布笨怡象,补气养血
+9,冷病中邪,khangd vut hvent,汗吾窝,滋阴
+10,燥火损伤肺气,khangd vut hvent baix dul,汗吾窝摆都,滋阴降火
+11,燥火损伤肺气,qeb jind dangf ngas ghongd,曲靳挡嘎侯,生津止渴
+12,燥火损伤肠胃,khangd vut hvent baix dul,汗吾窝摆都,滋阴降火
+13,燥火损伤肠胃,bud hongt yis hxangd,布苯怡象,补气养血
+14,燥火燥湿,maix diangl maix ves hxed dionb,麦靓麦韦芳荷桐,健脾补中
+15,燥火燥湿,yis hvent xongt fangb dab,怡渥雄访达,养阴扶阳
+16,半边经,Khangd vut hvent baix dul,汗吾窝摆都,滋阴降火
+17,半边经,dias jeet yul ghad ngol,滇劫阶哈格,祛风化痰
+18,半边经,langf dangf,宕挡,镇静
+19,半边经,dins vangx diongk,停网亭,安神
+20,偏头痛,dias jent dangf mongd,滇劫挡蒙,祛风止痛
+21,偏头痛,hangb bongt vex hxangd,沅笨维象,行气活血
+22,抖症,dias jent scix loud,滇劫赊洛,祛风通络
+23,抖症,dias jent pot wos jenb,滇劫迫喔经,祛风疏经
+24,热病血虚心慌,hxub hxab kib caf mongd,旭嘎凯滁穆,清热除烦
+25,热病血虚心慌,dangf dliud di- us vangx diongk,挡疏停网亭,养心安神
+26,冷病气血两虚心慌,bud hongt yis hxangd,布笨怡象,补气养血
+27,冷病气血两虚心慌,dangf dliud dins vangx diongk,挡疏停网亭,养心安神
+28,肺家热证咳嗽,hxub hxab kib rek hfad nais pob,旭嘎凯奈波,清热润肺
+29,肺家热证咳嗽,dangf ngol dias ghab ngal,挡苟滇哈格,止咳化痰
+30,肺家寒毒咳嗽,pot wos jent zangl seil,迫喔劫漳射,疏风散寒
+31,肺家寒毒咳嗽,red hfad nais pot dangf ngol,任复奈波挡苟,润肺止咳
+32,肺家风邪热毒咳嗽,pot wos jent zangt zei,迫喔劫漳止,疏风散热
+33,肺家风邪热毒咳嗽,hxub hxab kib tad jab,旭嘎凯沓痂,清热解毒
+34,肺家风邪热毒咳嗽,dias ghab ngal dangf ngol,滇哈格挡苟,祛痰止咳
+35,肺家痰湿寒毒咳嗽,dias ghab ngal dangf ngol,滇哈格挡苟,祛痰止咳
+36,肺家痰湿寒毒咳嗽,tad biaox zangl seil,沓标漳射,解表散寒
+37,肺家痰湿寒毒咳嗽,caf net tad jab,滁内沓痂,除湿解毒
+38,热经耳鸣·耳聋,hxub hxab kib caf moud,旭嘎凯滁穆,清热除烦
+39,热经耳鸣·耳聋,dangf dliud dius vangx diongk,挡疏停网亭,养心安神
+40,冷经耳鸣·耳聋,bud hongt yis hxangd,布笨怡象,补气养血
+41,冷经耳鸣·耳聋,dangf dliud dius vangx diongk,挡疏停网亭,养心安神
+42,肠漏,khand vat sand bud diuf,汗吾汕布丢,滋肝补肾
+43,肠漏,yis hvent bud bongt,怡渥布苯,养阴益气
+44,热经脐带溃烂（Baix daib qub mak ghab不独秋木嘎）,hxub hxab kib tad jab,旭嘎凯沓痂,清热解毒
+45,热经脐带溃烂（Baix daib qub mak ghab不独秋木嘎）,yank kib dangf mongb,泱向挡蒙,消炎止痛
+46,热病脐流血（Bak duf iol hxangd部独洛象）,hxub hxab kib tad jab,旭嘎凯沓痂,清热解毒
+47,热病脐流血（Bak duf iol hxangd部独洛象）,senb hxangd dangf hxangd,赊象挡象,凉血止血
+48,热病脐部流水（Buk duk dlax部独酒）,hxub hxab kib tad jab,旭嘎凯沓痂,清热解毒
+49,热病脐部流水（Buk duk dlax部独酒）,yank kib dangf mongb,泱向挡蒙,消炎止痛
+50,冷经脐带突出（Buk duk hvib部独希）,mangk jangk,莽将,莽将
+51,冷经脐带突出（Buk duk hvib部独希）,,,外治压脐或用硬币压在脐部包扎
+52,气虚出汗,bud hongt yis hxangd,布苯怡象,补气养血
+53,气虚出汗,maix diangl maix ves sul qub,麦靓麦韦素迄,健脾和胃
+54,血虚出汗,bud bongt yis hxent,布笨怡渥,补气养阴
+55,血虚出汗,khangd vut qub qeb jind,汗吾迄曲靳,益胃生津
+56,虚热出汗,khangd vut hvent baix dul,汗吾窝摆都,滋阴降火
+57,虚热出汗,Bud hongt yis hxangd,布苯怡象,补气养血
+58,热毒出汗,khangd vut hvent baix dul,汗吾窝摆都,滋阴降火
+59,热毒出汗,yis hvent bud bongt,怡渥布笨,养阴益气
+60,热经湿热吐血,sul qud baix dul,素迄摆都,清胃泻火
+61,热经湿热吐血,senb hxangd dangf hxangd,赊象挡象,凉血止血
+62,热经热毒吐血,hxub hxab kib sul qud,旭嘎凯素迄,清热和胃
+63,热经热毒吐血,hxub hxab sand baix dul,旭嘎汕渣都,清肝泻火
+64,热经热毒吐血,dangf hxangd,挡象,止血
+65,冷经气虚紫斑,bub bongt dangf hxangd,布笨挡象,益气止血
+66,冷经血虚紫斑,khangd vut hvent baix dul,汗吾渥摆都,滋阴降火
+67,冷经血虚紫斑,jul jab dlaib dangf hxangd,阶加丢挡象,化斑止血
+68,热经火旺紫斑,hxub hxab kib tad jab,旭嘎凯沓痂,清热解毒
+69,热经火旺紫斑,senb hxangd hangb diod hxangd,赊象抵象,凉血化瘀
+70,热经尿血,hxub hxab kib baix dul,旭嘎凯摆都,清热降火
+71,热经尿血,senb hxangd dangf hxangd,赊象挡象,凉血止血
+72,冷经尿血,bud xub dsangb got lol,布西参戈洛,补虚固涩
+73,热经风热青紫血斑,hxub hxab kib caf net,旭嘎凯滁内,祛风清热
+74,热经风热青紫血斑,senb hxangd dangf hxangd,赊象挡象,凉血止血
+75,热经血热青紫血斑,,,清热凉血
+76,热经血热青紫血斑,,,止血
+77,热经血热青紫血斑,hxub hxab kib tad jab,旭嘎凯沓痂,清热解毒
+78,热经血热青紫血斑,senb hxangd dangf hxangd,赊象挡象,凉血止血
+79,冷经气虚青紫血斑,,,补气摄血
+80,冷经气虚青紫血斑,Bud hongt yis hxangd,布笨怡象,补气养血
+81,冷经气虚青紫血斑,ves hxangd yangx diod hxangd,维角烽丢象,活血化瘀
+82,冷经血虚青紫血斑,khangd vut hvent baix dul,汗吾窝摆都,滋阴降火
+83,冷经血虚青紫血斑,senb hxangd dangf hxangd,赊象挡象,凉血止血
+84,血虚健忘,khad vat sand bud diuf,汗吾汕布丢,滋补肝肾
+85,血虚健忘,bud hongt dins vangx diongk,宕挡停网亭,养心安神
+86,热经心血受损健忘,,,清热
+87,热经心血受损健忘,,,养心
+88,热经心血受损健忘,,,安神
+89,热经湿热吐血,sul qud baix dul,素迄摆都,清胃泻火
+90,热经湿热吐血,senb hxangd dangf hxangd,赊象挡象,凉血止血
+91,热经热毒吐血,hxub hxab kib sul qud,旭嘎凯素迄,清热和胃
+92,热经热毒吐血,hxub hxab sand baix dul,旭嘎汕渣都,清肝泻火
+93,热经热毒吐血,dangf hxangd,挡象,止血
+94,热经胃热牙出血,sul qud baix dul,素迄摆都,清胃泻火
+95,热经胃热牙出血,senb hxangd dangf hxangd,赊象挡象,凉血止血
+96,冷经血虚牙出血,k hangd vut hvent baix dul,汗吾窝摆都,滋阴降火
+97,冷经血虚牙出血,senb hxangd dangf hxangd,赊象挡象,凉血止血
+98,热病小肚血瘀,ves hxangd yangx diod hxangd,维角烽丢象,活血化瘀
+99,热病小肚血瘀,tit bongt dangf mongb,替笨挡蒙,理气止痛
+100,热病血瘀成脓,hxub hxab kib tad jab,旭嘎凯沓痂,清热解毒
+101,热病血瘀成脓,ves hxangd yan- gx diod hxangd,维象洋丢象,活血化瘀
+102,冷病瘀阻经络,ves hxangd yangx diod hxangd,维象烽丢象,活血化瘀
+103,冷病瘀阻经络,seix loud dangf mongb,赊洛挡蒙,通络止痛
+104,冷病瘀阻血脉,ves hxangd yangx diod hxangd,维象律丢象,活血化瘀
+105,冷病瘀阻血脉,bxeb seix zangl seil,荷筛漳赊,温通散寒
+106,冷病血脉瘀阻,sul hxangl seix loud,素象赊洛,活血通经
+107,冷病血脉瘀阻,zang diod hxangb dangf mongf,漳丢象挡蒙,散瘀止痛
+108,冷病气虚血瘀,ves hxangd yangx diod hxangd,维象律丢象,活血化瘀
+109,冷病气虚血瘀,bxeb seix zangl seil,荷筛漳赊,温通散寒
+110,茵笨洛象冷经内伤便血,maix dliangl maix ves nait,麦靓麦韦芳,健脾
+111,茵笨洛象冷经内伤便血,kxed dionb,荷桐,温中
+112,茵笨洛象冷经内伤便血,,,止血
+113,茵笨洛象冷经内伤便血,hxub hxab kid caf net,旭嘎凯滁内,祛热除毒
+114,茵笨洛象冷经内伤便血,,,收敛止血
+115,茵笨洛象冷经内伤便血,hxub hxab kib senb hxangd,旭嘎凯赊象,清热凉血
+116,茵笨洛象冷经内伤便血,bud bongt yis hxangd,布笨益象,补气养血
+117,茵笨洛象冷经内伤便血,baix dul dangf hxangd,布都挡象,止血
+118,布兜凯迷洛象胃热牙出血,hxub hxab vas ghab qub,旭嘎洼布兜,清胃
+119,布兜凯迷洛象胃热牙出血,dlax kib,拉凯,泻火
+120,布兜凯迷洛象胃热牙出血,hxub hxab kib tad jab,旭嘎凯沓痂,清热解毒
+121,布兜凯迷洛象胃热牙出血,senb hxangd dangf hxangb,赊象挡象,凉血止血
+122,呼勒普凯芮洛象肺热出鼻血,,,清肺止血
+123,呼勒普凯芮洛象肺热出鼻血,hub hxab hfad nais pobdangd hxangd,旭嘎呼勒普挡象,清肺止血
+124,呼勒普凯芮洛象肺热出鼻血,senb hxangd dangf hxangd,赊象挡象,凉血止血
+125,呼勒普凯芮洛象肺热出鼻血,hxub hxub kib caf net,旭嘎凯滁内,清热除湿
+126,呼勒普凯芮洛象肺热出鼻血,senb hxangd vex hxangd,赊象维象,凉血活血
+127,呼勒普凯芮洛象肺热出鼻血,hxub hxab kib baix dul,呼勒炯,呼勒炯
+128,呼勒普凯芮洛象肺热出鼻血,,旭嘎凯摆都,清肝泻火
+129,呼勒普凯芮洛象肺热出鼻血,senb hxangd dangf hxangd,赊象挡象,凉血止血
+130,凯洛沃洛象热毒咳血,hxub hxab kib rek hfad nais pob,旭嘎凯任复奈波,清热润肺
+131,凯洛沃洛象热毒咳血,Senb hxangd dangf hxangd,赊象挡象,凉血止血
+132,凯洛沃洛象热毒咳血,hxub hxab kib rek hfad nais pob,旭嘎凯任复奈波,清热润肺
+133,凯洛沃洛象热毒咳血,senb hxangd vex hxangd,赊象维象,凉血活血
+134,凯洛沃洛象热毒咳血,baix dul hfud nais kid,摆都呼勒凯,清肝火
+135,凯洛沃洛象热毒咳血,hxub hxab kid ghab qub dangfhxangd,旭嘎凯布兜挡象,清胃热止血
+136,红丝疔,hxub hxab kib tad jab,旭嘎凯沓痂,清热解毒
+137,红丝疔,senb hxangd vex hxangd,赊象维象,凉血活血
+138,热经风热鼻出血,hxub hxab kib tad jab,旭嘎凯沓痂,清热解毒
+139,热经风热鼻出血,senb hxangd dangf hxangd,赊象挡象,凉血止血
+140,热经鼻出血,hxub hxab kib tad jab,旭嘎凯沓痂,清热解毒
+141,热经鼻出血,senb hxangd vex hxangd,赊象维象,凉血活血
+142,热经腹泻,hxub hxab kib caf net,旭嘎凯滁内,清热利湿
+143,热经腹泻,quk liand dangf zal,苣敛扎嘎,收敛止泻
+144,冷经腹泻,bud bongt dangf,布笨挡扎,补益止泻
+145,热经水肿,tad jab vas eb,沓痂洼沃,利湿行水
+146,冷病气血两虚水肿,vas obcaf net,洼沃除内,利水渗湿
+147,冷病气血两虚水肿,vas eb,洼沃,行水
+148,皮肤痈子,hxub hxab kib tad jab,旭嘎凯沓痂,清热解毒
+149,皮肤痒疹,hxub hxub kib caf net,旭嘎凯滁内,清热除湿
+150,皮肤痒疹,dias jent dangf qut qat,滇劫挡祛卡,祛风止痒
+151,肩周炎,veshxia scix loud,维洗赊洛,舒经通洛
+152,肩周炎,dias jent caf net,滇劫滁内,祛风除湿
+153,冷病风寒感冒,zenb hxed tad biaox,真稀沓标,辛温解表
+154,冷病风寒感冒,xeeb hfad nais pob dangf ngol,卸复奈波挡苟,宣肺止咳
+155,热经风热感冒,hxub hxab kib rek hfad nais pob,旭嘎凯任复奈波,清热润肺
+156,热经风热感冒,hxed hfad pot nais jul ngol,荷呼勒阶哈格,清肺化痰
+157,热经烂喉痧,senb hxangd tad biaox,赊象沓标,凉血解表
+158,热经烂喉痧,hxub hxab kib vas ngangl,旭嘎凯洼嘎,清热利咽
+159,热毒泛血烂喉痧,senb hxangd tad biaox,赊象沓标,凉血解表
+160,热毒泛血烂喉痧,hxub hxab kib vas ngangl,旭嘎凯洼嘎,清热利咽
+161,白斑病,pot wos jent zangl zet,迫渥劫漳壮,疏散风热
+162,白斑病,vex hxangd rek dud,维象任杜,活血润肤
+163,风邪疙瘩,hxub hxab kib tad jab,旭嘎凯沓痂,清热解毒
+164,冷经风湿性关节炎,dias jent dangf mongd,滇劫挡蒙,祛风止痛
+165,冷经风湿性关节炎,seix loud dangf mongb,赊洛挡蒙,通络止痛
+166,热经风湿性关节炎,hxub hxab kib caf net,旭嘎凯滁内,清热利湿
+167,热经风湿性关节炎,veshxia scix loud,维洗赊洛,舒经通络
+168,热经风湿性关节炎,dias jent dangf mongd,滇劫挡蒙,祛风止痛
+169,冷经风寒咳嗽,tad biaox zangl seil,沓标漳射,解表散寒
+170,冷经风寒咳嗽,xeeb hfud nais pob- dangf ngol,卸复奈波挡苟,清肺止咳
+171,热经风热咳嗽,pot wos jent zangl zet,迫渥劫漳止,疏散风热
+172,热经风热咳嗽,xeeb hfad nais pob dangf ngol,卸复奈波挡苟,宣肺止咳
+173,兰蛇缠腰,hxub hxab kib caf net,旭嘎凯滁内,清热利湿
+174,兰蛇缠腰,dangf mongd,挡蒙,止痛
+175,兰蛇挂膀,hxub hxab kib tad jab,旭嘎凯沓痂,清热解毒
+176,兰蛇挂膀,vas eb dangf qut qat,洼内挡祛卡,利湿止痒
+177,兰蛇钻心,hxub hxab kib tad jab,旭嘎凯沓痂,清热解毒
+178,兰蛇钻心,yank kib dangf mongb,泱疳挡蒙,消炎止痛
+179,流眼泪,pot wos jent tad biaox,迫渥劫沓标,疏风解表
+180,流眼泪,khand vat sand bub,汗吾汕补丢,补肝补肾
+181,热湿互结类风湿,hxub hxab kib caf net,旭嘎凯滁内,清热利湿
+182,热湿互结类风湿,dias jent dangf mongd,滇劫挡蒙,祛风止痛
+183,热经气滞血瘀类风湿,dias jent caf net,滇劫滁内,祛风除湿
+184,热经气滞血瘀类风湿,Veshxia scix loud,维洗赊洛,舒经通络
+185,热经气滞血瘀类风湿,hangb bongt dangf mongd,沆笨挡蒙,行气止痛
+186,冷经寒湿阻滞类风湿,,,攻补兼施
+187,风毒蒙冲净,pat wos jent caf net,迫渥劫滁内,疏风祛湿
+188,风毒蒙冲净,hangb bongt dangf mongd,沆笨挡蒙,行气止痛
+189,寒毒蒙冲净,,,散寒燥湿
+190,寒毒蒙冲净,veshxia scix loud,维洗赊洛,舒经通络
+191,寒毒蒙冲净,dias jent dangf mongd,滇劫挡蒙,法风止痛
+192,水湿蒙冲净,dias jent caf net,滇劫滁内,祛风除湿
+193,水湿蒙冲净,zangl seil dangf mongb,漳射挡蒙,散寒止痛
+194,血虚蒙冲净,dias jent caf net,滇劫滁内,祛风除湿
+195,血虚蒙冲净,bud hongt yis hxangd,布苯怡象,补气养血
+196,冷经支气管炎,xeeb hfad nais pob dangf xangt,卸复奈波曲靳,宣肺平喘
+197,冷经支气管炎,dangf ngol dangf xangt,挡沃挡靳,止咳平喘
+198,热经支气管炎,hxub hxab kib rek hfad nais pob,旭嘎凯任复奈波,清热润肺
+199,热经支气管炎,dangl ngol dangf xangt,挡苟挡靳,止咳平喘
+200,热经腹痛,hxub hxab kib caf net,旭嘎凯滁内,清热除湿
+201,热经腹痛,dongf mongb,挡蒙,止痛
+202,冷经腹痛,zangl seil dongf mongb,漳射挡象,散寒止痛
+203,热经湿疹,hxub hxab kib caf net,旭嘎凯滁内,清热利湿
+204,热经湿疹,Dias jent dangf qut qat,滇劫挡祛卡,祛风止痒
+205,冷经湿疹,dias jent caf net,滇劫滁内,祛风除湿
+206,冷经湿疹,vex hxangd rek dud,维象任杜,活血润肤
+207,面部湿疹,hxub hxub kib caf net,旭嘎凯滁内,清热除湿
+208,面部湿疹,dias jent dangf qut qat,滇劫挡祛卡,祛风止痒
+209,面部湿疹,senb hxangd,渗象,凉血
+210,冷经晕症,bud hongt yis hxangd,布笨怡象,补气养血
+211,冷经晕症,dangf dliud dins vangx diongk,挡琉停网亭,养心安神
+212,热经晕症,hxub hxab kib dias dias ghab ngal,旭嘎凯滇哈格,清热化痰
+213,冷病水湿瘟疾,hxub hxub kib caf moud,旭嘎凯滁穆,清热除烦
+214,冷病水湿瘟疾,vas eb caf net,洼沃滁内,利水渗湿
+215,热病水湿瘟疾,hxub hxab kib caf net,旭嘎凯滁内,清热利湿
+216,热病水湿瘟疾,vas eb caf net,洼沃除内,利水渗湿
+217,热经尿路疼痛,hxub hxab kib caf net,旭嘎凯滁内,清热利湿
+218,热经尿路疼痛,yank kib dangf mongb,泱扃挡蒙,消炎止痛
+219,冷经尿路疼痛,khand vat sand bud diuf,汗吾汕布丢,滋肝补肾
+220,冷经尿路疼痛,hangb bongt dangf mongd,沆笨挡蒙,行气止痛
+221,阴囊湿疹,caf net tad jab,滁内沓痂,除湿解毒
+222,阴囊湿疹,dib gangb dangf qut qat,抵港挡祛卡,杀虫止痒
+223,热经燥邪伤肺,hxub hxab kib reb zaok,旭嘎凯任早,清热润燥
+224,热经燥邪伤肺,tat jab zaod net,沓痂造内,解毒燥湿
+225,热经燥气化火,hxub hxab kib reb zaok,旭嘎凯任早,清热润燥
+226,热经燥气化火,xeeb hfad nais pob dangf ngol,卸复奈波挡苟,宣肺止咳
+227,热经燥邪伤胃,hxub hxub kib caf net,旭嘎凯滁内,清热利湿
+228,热经燥邪伤胃,xeeb hfad nais pot,卸复奈波,宣肺
+229,冷经燥湿伤肺,maix diangl maix ves sul qub,麦靓麦韦素迄,健脾和胃
+230,火毒伤皮,hxub hxab kib tad jab,旭嘎凯沓痂,清热解毒
+231,火毒伤皮,yank kib dangf mongb,泱向挡蒙,消炎止痛
+232,火毒伤血,hxub hxab kib tad jab,旭嘎凯沓痂,清热解毒
+233,火毒伤血,Khangd vut hvent qeb jiand,汗吾渥曲靳,滋阴生津
+234,火毒攻心,hxub hxab kib tad jab,旭嘎凯沓痂,清热解毒
+235,火毒攻心,dias las qeb ghab jid,滇喇曲哈几,祛腐生肌
+236,热病妇人经水不调,bud hongt yis hxangd,布笨怡象,补气养血
+237,热病妇人经水不调,ves sand ghangb yub,维汕夯宁,疏肝解郁
+238,冷病妇人经水不调,bub hxangb niox ghad hxangd,布象制扭哈象,补血调经
+239,冷热并病妇人经水错后,ves hxangd yangx diod hxangd,维象烽丢象,活血化瘀
+240,冷热并病妇人经水错后,Senb hxangd niox ghad hxangd,赊象扭哈象,凉血调经
+241,冷病经水错后,bud bongt yis hxent,布笨怡渥,补气养阴
+242,冷病经水错后,bxeb scix niox ghad hangd,荷筛扭哈象,温通调经
+243,热病妇人经水提前,hxub hxab kib,旭嘎凯,清热
+244,热病妇人经水提前,tit bongt,替笨,理气
+245,热病妇人经水提前,niox ghad hxangd,扭哈象,调经
+246,冷病妇人经水提前,hongb bongt,沆笨,补气
+247,冷病妇人经水提前,yis hxangd niox ghad hxangd,素象扭哈象,养血调经
+248,冷病经水过多,bud hongt yis hxangd,布笨怡象,补气养血
+249,冷病经水过多,vas eb niox ghad hxangd,洼内制扭哈象,利湿调经
+250,热病经水过多,dias diod hxangd niox ghab hxangd,滇丢象扭哈象,化瘀调经
+251,热病经水过多,sul hxangl seix loud,素象赊洛,活血通经
+252,冷病经水过少,yis hxangd niox ghad hxangd,怡象制扭哈象,养血调经
+253,冷病经水过少,bud bongt yis hxent,布笨怡渥,补气养阴
+254,热病经水过少,ves hxangd yangx diod hxangd,维角烽丢象,活血化瘀
+255,热病经水过少,bud hongt niox ghad hxangd,布笨制扭哈象,补气调经
+256,妇人冷病血虚断经又来,Khangd vut hvent baix dul,汗吾窝摆都,滋阴降火
+257,妇人冷病血虚断经又来,dins vangx diongk dangf hxangd,停网亭挡象,安神止血
+258,肠胃虚弱经水又来,yis qub maix diangl maix ves nait,怡迄麦靓麦韦芳,养胃健脾
+259,肠胃虚弱经水又来,bud sand bub diuf,布讪布丢,补肝补肾
+260,妇人湿热断经又来,hxub hxab kib caf net,旭嘎凯滁内,清热利湿
+261,妇人湿热断经又来,hxangd vex hx- angd,赊象维象,凉血活血
+262,妇人湿毒断经又来,,,化瘀散结
+263,妇人湿毒断经又来,hxub hxab kib caf net,旭嘎凯滁内,清热利湿
+264,妇人湿毒断经又来,ves hxangd yangx diod hxangd,维象烽丢象,活血化瘀
+265,热病月经鼻衄,khangd vut hvent baix dul,汗吾渥摆都,滋阴降火
+266,热病月经鼻衄,Hxub hxab kib dangf hxangd,旭嘎凯挡象,清热止血
+267,冷病月经鼻衄,khangd vut hvent baix dul,汗吾渥摆都,滋阴降火
+268,冷病月经鼻衄,sul hxangl seix loud,素象赊洛,活血通经
+269,热病妇人经水大下,bud diub dsangb got lol,布丢参戈洛,补肾固涩
+270,热病妇人经水大下,dias diod hxangd niox ghab hxangd,滇丢象扭哈象,化瘀调经
+271,冷病妇人经水大下,Bud hongt yis hxangd,布笨怡象,补气养血
+272,冷病妇人经水大下,bud diub niox ghab hxangd,布丢扭哈象,补肾调经
+273,经来便血,hxub hxab kib senb hxangd,旭嘎凯赊象,清热凉血
+274,经来便血,sul hxangl seix loud,素象赊洛,活血通经
+275,热病月经发烧,khangd vut hvent baix dul,汗吾窝摆都,滋阴降火
+276,热病月经发烧,senb hxangd niox ghad hxangd,赊象扭哈象,凉血调经
+277,冷病月经发烧,hxub hxab kib,旭嘎凯,清热
+278,冷病月经发烧,yis hxangd,怡象,养血
+279,冷病月经发烧,niox ghad hxangd,扭哈象,调经
+280,冷病经来浮肿,maix dliangl maix ves nait caf net,麦靓韦麦芳滁内,健脾利湿
+281,冷病经来浮肿,Vas eb yangk angt,洼沃泱安,利水消肿
+282,热病经来浮肿,tit bongt vex hxangb yangx,替笨维象烽,理气活血
+283,热病经来浮肿,hangb bongt yangk angt,沆笨泱安,行气消肿
+284,冷病月经风疹块,dangf dliud khangd vut qub,挡休汗吾迄,养心益胃
+285,冷病月经风疹块,dias jent dangf qut qat,滇劫挡祛卡,舒风祛疹
+286,热病月经风疹块,,,疏风清热
+287,经来腹泻,yis qub maix diangl maix ves nait,怡迄麦靓麦韦丹,养胃健脾
+288,经来腹泻,caf nef niox ghad hxangd,滁内扭哈象,利湿调经
+289,冷病月经身痛,yis hxangd bud bongb,怡象布笨,养血益气
+290,冷病月经身痛,pot wos jenb dangf mongb,迫渥净挡蒙,疏经止痛
+291,热病月经身痛,ves hxangd yangx diod hxangd,维象洋丢象,活血化瘀
+292,热病月经身痛,dias jent dangf mongd,滇劫挡蒙,祛风止痛
+293,热病经来头痛,dangf mongd niox ghad hxangd,挡蒙扭哈象,止痛调经
+294,热病经来头痛,hxub hxab sand baix dul,旭嘎汕渣都,清肝泻火
+295,冷病经来头痛,dangf mongd niox ghad hxangd,挡蒙扭哈象,止痛调经
+296,冷病经来头痛,tit bongt dangf mongb,替笨挡蒙,理气止痛
+297,月经情志异常,hxub hxab kib,旭嘎凯,清热
+298,月经情志异常,yis hxangd,怡象,养血
+299,月经情志异常,jul ghad ngol,阶哈格,化痰
+300,月经情志异常,dins vangx diogk,停网亭,安神
+301,热病经水来潮肚痛,ves hxangd yangx diod hxangd,维象律丢象,活血化瘀
+302,热病经水来潮肚痛,hangb bongt dangf mongd,沆笨挡蒙,行气止痛
+303,冷病经水来潮肚痛,bud hongt yis hxangd,布笨怡象,补气养血
+304,冷病经水来潮肚痛,dangf mongd niox ghad hxangd,挡蒙扭哈象,止痛调经
+305,冷病经期口舌生疮,hxub hxab kib caf net,旭嘎凯滁内,清热利湿
+306,冷病经期口舌生疮,zaok net did gangb,造类抵港,燥湿杀虫
+307,热病经期口舌生疮,Khangd vut hvent baix du,汗吾渥摆都,滋阴降火
+308,热病经期口舌生疮,dias diod hx- angd,滇丢象,化瘀
+309,冷病妇人经水不来,bud hongt yis hxangd,布笨怡象,补气养血
+310,冷病妇人经水不来,bud diub niox ghab hxangd,布丢扭哈象,补肾调经
+311,热病妇人经水不来,ves hxangd yangx diod hxangd,维象烽丢象,活血化瘀
+312,热病妇人经水不来,vas eb niox ghad hxangd,洼内扭哈象,利水调经
+313,冷经怀孕呕吐,maix diangl maix ves sul qub,麦靓麦韦素迄,健脾和胃
+314,冷经怀孕呕吐,dangf od,挡呕,止呕
+315,热经怀孕呕吐,ves sand sul qub,维汕素迄,疏肝和胃
+316,热经怀孕呕吐,dangf od,挡阿,止呕
+317,孕妇发晕症,yis hxangd di as jent,怡象滇劫,养血熄风
+318,孕妇发晕症,khand vat sand bub,汗吾汕布丢,补肝补肾
+319,怀崽贫血,bud hongt yis hxangd,布笨怡象,补气养血
+320,怀崽贫血,dangf dliud dins qeb jind,挡琉停曲靳,养心生津
+321,产后风寒身痛,dias jent caf net,滇劫滁内,祛风除湿
+322,产后风寒身痛,zang diod hxangb dangf mongf,漳丢象挡蒙,化瘀止痛
+323,产后风寒身痛,bud hongt yis hxangd,布笨怡象,补气养血
+324,养傣后气血两虚身痛,bud hongt yis hxangd,布笨怡象,补气养血
+325,养傣后气血两虚身痛,ves hxid jongt dail,维洗炯带松,补骨强筋
+326,养傣后气血两虚身痛,dangf mongb,挡蒙,止痛
+327,冷经血虚恶露不断,bab hongt yis hxangd,布笨益象,补气养血
+328,热经恶露不断,ves hxangd yangx diod hxangd,维象洋丢象,活血化瘀
+329,热经恶露不断,bud hongt yis hxangd,布笨怡象,补气养血
+330,热经恶露不断,hxub hxab kib dangf hxangd,旭嘎凯挡象,清热止血
+331,养傣气虚多汗,bud hongt yis hxangd,布笨怡象,补气养血
+332,养傣气虚多汗,dangf eb hniangk,挡欧仰,止汗
+333,养傣虚热多汗,khangd vut qub qeb jind,汗吾迄曲靳,益胃生津
+334,养傣虚热多汗,yis hvent bud bongt,怡渥布笨,养阴益气
+335,热病小便异常,hxub hxab kib caf net,旭嘎凯滁内,清热利湿
+336,热病小便异常,dod vas jut,达洼居,通利小便
+337,冷病小便异常,bud hongt yis hxangd,布笨怡象,补气养血
+338,冷病小便异常,yis hvent xongt fangb dab,怡渥雄访达,养阴扶阳
+339,冷病小便异常,vas eb,洼沃,利水
+340,冷病气虚血虚小产,bud hongt yis hxangd,布笨怡象,补气养血
+341,冷病气虚血虚小产,vangl daib dangf hxangb,昂岱摆象,止血安胎
+342,冷病肾虚小产,bud diuf vangl daib,布丢昂岱,补肾安胎
+343,热经血热小产,hxub hxub kib caf moud,旭嘎凯滁穆,清热除烦
+344,热经血热小产,vangl daib dangf hxangb,昂岱摆象,止血安胎
+345,冷病怀孕痛肚,yis hxangd,怡象,养血
+346,冷病怀孕痛肚,hfaid vangl,党昂,安胎
+347,冷病怀孕痛肚,dangf mongb,挡蒙,止痛
+348,热病怀崽痛肚,khand vat sand bud diuf,汗吾汕布丢,滋肝补肾
+349,热病怀崽痛肚,bud hongt yis hxangd,布笨怡象,补气养血
+350,冷病养傣伤血,bud hongt yis hxangd,布笨怡象,补气养血
+351,冷病养傣伤血,khangd vut hvent qeb jiand,汗吾渥曲靳,滋阴生津
+352,养傣伤己,maix diangl maix ves sul qub,麦靓麦韦素迄,健脾和胃
+353,养傣伤己,bud hongt yis hxangd,布笨怡象,补气养血
+354,冷经流产出血,bud hongt yis hxangd,布笨怡象,补气养血
+355,冷经流产出血,yangx diod hxangd dangf hxangd,洋丢象挡象,化瘀止血
+356,热经流产出血,hxub hxab kib caf net,旭嘎凯滁内,清热利湿
+357,热经流产出血,quk liand dangf hxangd,苣敛挡象,收敛止血
+358,气血两虚头晕,hangb bongt,沆笨,行气
+359,气血两虚头晕,dins vangx diongk,停网亭,安神
+360,气血两虚头晕,Khangd vut hvent baix dul,汗吾窝摆都,滋阴降火
+361,快经血瘀头晕症,ves hxangd yangx diod hxangd,维象洋丢象,活血化瘀
+362,养傣气血两虚肚痛,bud hongt yis hxangd,布笨怡象,补气养血
+363,养傣气血两虚肚痛,zang diod hxangb dangf mongf,漳丢象挡蒙,散瘀止痛
+364,热经血瘀挟寒肚痛,ves hxangd yangx diod hxangd,维象烽丢象,活血化瘀
+365,热经血瘀挟寒肚痛,zangl zent dangf mongb,漳砧挡蒙,散结止痛
+366,产后便秘,yis hxangd reb zaok,怡象任早,养血润燥
+367,产后便秘,vas eb seix ghab,洼沃赊嘎,利水通便
+368,热经气血两虚发烧,hxub hxab kib tad jab,旭嘎凯沓痂,清热解毒
+369,热经气血两虚发烧,senb hxangd di- od hxangd,赊象抵象,凉血化瘀
+370,热经外感邪毒发烧,hxub hxab kib tad jab,旭嘎凯沓痂,清热解毒
+371,热经外感邪毒发烧,khangd vut hvent baix dul,汗吾窝摆都,滋阴降火
+372,热经血热发烧,ves hxangd yangx diod hxangd,维象烽丢象,活血化瘀
+373,热经血热发烧,khangd vut hvent baix dul,汗吾窝摆都,滋阴降火
+374,产后低烧虚弱,khangd vut hvent baix dul,汗吾窝摆都,滋阴降火
+375,产后低烧虚弱,bud hongt yis hxangd,布笨怡象,补气养血
+376,冷经妇人不孕症,bud hongt yis hxangd,布笨怡象,补气养血
+377,冷经妇人不孕症,khangd vut yis hvent,汗吾怡窝象,滋养精血
+378,冷经妇人不孕症,dias diod hxangd niox ghab hxangd,滇丢象扭哈象,化瘀调经
+379,热经不孕症,khangd vut yis hvent,汗吾怡窝象,滋养精血
+380,热经不孕症,dias diod hxangd niox ghab hxangd,滇丢象扭哈象,化瘀调经
+381,冷病血虚带下过多,bud hongt yis hxang,布笨怡象,补气养血
+382,冷病血虚带下过多,caf nef dangf daid,滁内挡带,利湿止带
+383,热病血虚白带过多,hxub hxab kib tad jab,旭嘎凯沓痂,清热解毒
+384,热病血虚白带过多,khangd vut hvent qeb jiand,汗吾渥曲靳,滋阴生津
+385,热病血虚白带过多,khangd vut yis hvent,汗吾怡窝象,滋养精血
+386,热病血虚白带过多,hxub hxab kib tad jab,旭嘎凯沓痂,清热解毒
+387,热病血虚白带过多,khangd vut hvent qeb jiand,汗吾渥曲靳,滋阴生津
+388,热病血虚白带过多,khangd vut yis hvent,汗吾怡窝象,滋养精血
+389,白带过少症,ves hxangd yangx diod hxangd,维象律丢象,活血化瘀
+390,白带过少症,khangd vut hvent qeb jiand,汗吾渥曲靳,滋阴生津
+391,热病月经期乳房胀痛,sul hxangl seix loud,素象赊洛,活血通经
+392,热病月经期乳房胀痛,dangf mongd niox ghad hxangd,挡蒙扭哈象,止痛调经
+393,冷病月经期乳房胀痛,bud hongt yis hxangd,布笨怡象,补气养血
+394,冷病月经期乳房胀痛,dangf mongd niox ghad hxangd,挡蒙扭哈象,止痛调经
+395,热经妇人外邪阴痒,hxub hxab kib caf net,旭嘎凯滁内,清热利湿
+396,热经妇人外邪阴痒,did gangb dangf qut qat,抵港挡确卡,杀虫止痒
+397,热经妇人瘙痒,khangd vat sand bub diub,汗吾汕布丢,补肝补肾
+398,热经妇人瘙痒,did gangb dangf qut gat,抵港挡祛卡,杀虫止痒
+399,冷病气虚子宫脱出,bud hongt yis hxangd,布笨怡象,补气养血
+400,冷病气虚子宫脱出,bud diub dsangb got 11,补丢参戈洛,补肾固涩
+401,冷病血虚子宫脱出,bud bongt yis hxent,布笨怡渥,神气养阴
+402,冷病血虚子宫脱出,hxub hxab kib caf net,旭嘎凯滁内,清热利湿
+403,气滞血瘀乳房长结,ves sand,维仙,疏肝
+404,气滞血瘀乳房长结,tit bongt,替笨,理气
+405,气滞血瘀乳房长结,yangx diod hxangd,洋丢象,化瘀
+406,血脉失调乳房长结,sul hxangl seix loud,素象赊洛,活血通经
+407,血脉失调乳房长结,dangf mongb,挡蒙,止痛
+408,冷经乳汁自出,bud hongt yis hxangd,布笨怡象,补气养血
+409,冷经乳汁自出,dangf dsangb,挡渗,止涩
+410,热经乳汁自出,hxub hxab sand baix dul,旭嘎汕渣都,清肝泻火
+411,热经乳汁自出,dangf dsangb,挡渗,固涩
+412,冷经气血两虚乳汁不来,bud hongt yis hxangd,布笨怡象,补气养血
+413,冷经气血两虚乳汁不来,diangl nail ghangb qub,宕芳夯珞,醒脾开胃
+414,热经乳汁不来,ves sand sul qub,维汕素迄,疏肝和胃
+415,热经乳汁不来,khangd vut qub qeb jind,汗吾迄曲靳,益胃生津
+416,肠胃虚弱绝经骨质疏松,khand vat sand bud diuf,汗吾汕布丢,滋补肝肾
+417,肠胃虚弱绝经骨质疏松,ves hxid jongt dail hsongd,维洗炯带松,补骨强筋
+418,气血两虚绝经骨质疏松,khand vat sand bud diuf,汗吾汕布丢,滋肝补肾
+419,气血两虚绝经骨质疏松,bud hongt yis hxangd,布笨怡象,补气养血
+420,血虚绝经骨质疏松,khangd vut hvent baix dul,汗吾窝摆都,滋阴降火
+421,血虚绝经骨质疏松,ves hxid jongt dail,维洗炯带松,补骨强筋
+422,妇人血虚老年多样病,bud hongt yis hxangd,布笨怡象,补气养血
+423,妇人血虚老年多样病,khand vat sand bub,汗吾汕补丢,补肝补肾
+424,妇女气虚老年多样病,khand vat sand bud diuf,汗吾汕布丢,滋肝补肾
+425,妇女气虚老年多样病,yis Event bud bongt,怡渥布笨,养阴益气
+426,冷经产后身疼,sul hxangl seix loud,素象赊洛,活血通经
+427,冷经产后身疼,seix loud dangf mon- gb,赊洛挡蒙,通络止痛
+428,热经养傣后身疼,ves hxangd yangx diod hxangd,维象烽丢象,活血化瘀
+429,热经养傣后身疼,dias jent caf net,滇劫滁内,祛风利湿
+430,热经养傣后身疼,dangf mongb,挡蒙,止痛
+431,热经妇人小肚疼痛,,,清热解毒
+432,热经妇人小肚疼痛,,,化瘀祛湿
+433,热经伐僵点,hxub hxab kib tad jab,旭嘎凯沓痂,清热解毒
+434,热经伐僵点,yangk kib dangf mongb,泱病挡蒙,消炎止痛
+435,冷经伐僵点,hxub hxab kib tad jab,旭嘎凯沓痂,清热解毒
+436,冷经伐僵点,bud hongt yis hxangd,布笨怡象,补气养血
+437,冷经伐僵点,xud bus qeb ghab jid,墟布曲哈几,排脓生肌
+438,急性乳腺炎,hxub hxab kib tad jab,旭嘎凯沓痂,清热解毒
+439,急性乳腺炎,yank kib dangf mongb,泱疳挡蒙,消炎止痛
+440,急性乳腺炎,hxub hxab kib tad jab,旭嘎凯沓痂,清热解毒
+441,急性乳腺炎,zang diod hxangb dangf mongf,漳丢象挡蒙,散瘀止痛
+442,热病经来眩晕,khangd vut hvent baix dul,汗吾窝摆都,滋阴降火
+443,冷病经来眩晕,khangd vut yis hvent hxangd,汗吾怡象,滋养精血
+444,冷病经来眩晕,dangf dliud dius vangx diongk,挡琉停网亭,养心安神
+445,妇男冷病遗精,khand vat sand bud diuf,汗吾尤布丢,滋肝补肾
+446,妇男冷病遗精,yis hvent xongt fanb dab,怡渥雄访达,养阴扶阳
+447,热病遗精,hxub hxab kib caf net,旭嘎凯滁内,清热利湿
+448,热病遗精,khangd vut yis hvent,汗吾怡窝象,滋养精血
+449,热病妇男早泄,hxub hxub kib caf moud,旭嘎凯滁穆,清热除烦
+450,热病妇男早泄,bud bongt yis hxent,布笨怡渥,补气养阴
+451,冷病妇男早泄,khangd vut hvent qeb jiand,汗吾渥曲靳,滋阴生津
+452,冷病妇男早泄,dangf dliud dius vangx diongk,挡琉停网亭,养心安神
+453,热经妇男阳痿,dangf dliud dius vangx diongk,挡琉停网亭,养心安神
+454,热经妇男阳痿,yis hvent,布丢戈洛,布丢戈洛
+455,热经妇男阳痿,,怡渥,补肾固涩养阴
+456,冷经妇男阳痿,dins vangx diongk,停网亭,安神
+457,冷经妇男阳痿,bud diuf,布丢,补肾
+458,冷经妇男阳痿,xongt fangb dab,雄访达,扶阳
+459,妇男热毒尿血,hxub hxub kib caf net,旭嘎凯滁内,清热除湿
+460,妇男热毒尿血,sent hxangd dangf hxangd,赊象挡象,凉血止血
+461,妇男湿热尿血,hxub hxab kib caf net,旭嘎凯滁内,清热利湿
+462,妇男湿热尿血,senb hxangd dangf hxangd,赊象挡象,凉血止血
+463,妇男气血两虚尿血,,,行气化瘀
+464,妇男气血两虚尿血,,,养血止血
+465,小儿风热感冒,tad biaox zangl seil,沓标漳射,解表散寒
+466,小儿风热感冒,pot wos jent zangl zet,迫喔劫漳止,疏散风热
+467,小儿风寒感冒,zenb hxed tad biaox,真稀沓标,辛温解表
+468,小儿风寒感冒,red hfad nais pot dangf ngol,任复奈波挡苟,润肺止咳
+469,小儿肠胃虚弱贫血,maix diangl maix ves sul qub,麦靓麦韦素迄,健脾和胃
+470,小儿肠胃虚弱贫血,bud hongt yis hxangd,布笨怡象,补气养血
+471,小儿气血两虚贫血,,,补益心脾
+472,小儿冷经吼疱,hxed hfad pot nais jul ghad ngol,荷呼勒阶哈格,温肺化痰
+473,小儿冷经吼疱,dan- gf ngol dangf xangt,挡沃挡靳,止咳平喘
+474,小儿热经吼疱,hxed hfad pot nais jul ngol,荷呼勒阶哈格,清肺化痰
+475,小儿热经吼疱,dangf ngol dangf xangt,挡沃挡靳,止咳平喘
+476,小儿外伤，风寒咳嗽jent seil ait ngol英赊按哦,tad biaox zangl seil,沓标漳射,解表散寒
+477,小儿外伤，风寒咳嗽jent seil ait ngol英赊按哦,xeeb hfad nais pob dangf ngol,卸复奈波挡苟,宣肺止咳
+478,小儿外伤，风热咳嗽jent dul hleib ait ngol英都输按哦,pot wos jent zangl zet,迫渥劫漳止,疏散风热
+479,小儿外伤，风热咳嗽jent dul hleib ait ngol英都输按哦,xeeb hfad nais pob dangf ngol,卸复奈波挡苟,宣肺止咳
+480,小儿内损痰湿咳嗽Ait ngol hxeb按嘎漠,,,健脾燥湿
+481,小儿内损痰湿咳嗽Ait ngol hxeb按嘎漠,,,止咳化痰
+482,小儿内损血虚咳嗽Hxangb xus ait ngol象休按哦,hxub hxab kib reb zaok,旭嘎凯任早,清热润燥
+483,小儿内损血虚咳嗽Hxangb xus ait ngol象休按哦,xeeb hfiid nais pob dangf ngol,卸复奈波挡苟,清肺止咳
+484,小儿内损气虚咳嗽Bongt ax vas ait ngol笨阿乌按哦,red hfad nais pot dangf ngol,任复奈波挡苟,润肺止咳
+485,热毒鹅口疮,hxub hxab kib tad jab,旭嘎凯沓痂,清热解毒
+486,热毒鹅口疮,yank kib dangf mongb,泱向挡蒙,消炎止痛
+487,胃热鹅口疮,sul qud baix dul,素迄摆都,清胃泻火
+488,胃热鹅口疮,yank kib dangf mongb,泱疳挡蒙,消炎止痛
+489,湿热鹅口疮,,,湿热鹅口疮
+490,小儿口疮,hxub hxab kib caf net,旭嘎凯滁内,清热利湿
+491,小儿口疮,hxub hxab kib sul qud,旭嘎凯素迄,清热和胃
+492,热经马牙症,hxub hxab kib tad jab,旭嘎凯沓痂,清热解毒
+493,热经马牙症,yank kib dangf mongb,泱痼挡蒙,消炎止痛
+494,冷经马牙症,hxub hxab kib tad jab,旭嘎凯沓痂,清热解毒
+495,冷经马牙症,zang diod hx- angb dangf mongf,漳丢象挡蒙,化瘀止痛
+496,冷经痛肚,kxed dionb zangl seil,荷桐漳射,温中散寒
+497,冷经痛肚,tit bongt dangf mon- gb,替笨挡蒙,理气止痛
+498,食积痛肚,,,清食导滞
+499,食积痛肚,hxib nongx yangx jul ghuk,洗侬烽阶咕,消食化积
+500,食积痛肚,hangb bongt dangf mongd,沆笨挡蒙,行气止痛
+501,热邪肚痛,dlax kib seix gha,拉凯赊嘎,泻热通便
+502,热邪肚痛,tit bongt dangf mongb,替笨挡蒙,理气止痛
+503,虫积痛肚,dib gangb dongf mongb,抵港挡蒙,杀虫止痛
+504,小儿虚弱汗症,yis hvent xongt fangb dab,怡渥雄访达,养阴扶阳
+505,小儿虚弱汗症,bud bongt bud diuf,布笨布丢,益气补肾
+506,气血不调汗症,bud hongt yis hxangd,布笨怡象,补气养血
+507,气血不调汗症,khand vat sand bud diuf,汗吾汕布丢,滋肝补肾
+508,气血两虚汗症,bud hongt yis hxangd,布笨怡象,补气养血
+509,气血两虚汗症,yis hvent xongt fangb dab,怡渥雄访达,养阴扶阳
+510,食积（陇阿洛 Nongx ax lol ghax）,hxib nongx yangx jul ghuk,洗侬烽阶咕,消食化积
+511,食积（陇阿洛 Nongx ax lol ghax）,maix diangl maix ves sul qub,麦靓麦韦素迄,健脾和胃
+512,喂养不当，营养不良,hxib nongx yangx jul ghuk,洗侬烽阶咕,消食化积
+513,喂养不当，营养不良,bud hongt yis hxangd,布笨怡象,补气养血
+514,虫积（岗龚仰洛 Gangb jongb niangb not）,hxib nongx yangx jul ghuk,洗侬坪阶咕,消食化积
+515,虫积（岗龚仰洛 Gangb jongb niangb not）,bud bongt yis hxent,布笨怡渥,神气养阴
+516,虫积（岗龚仰洛 Gangb jongb niangb not）,did gangb,抵港,杀虫
+517,气虚厌食、偏食,yis qub maix diangl maix ves nait,怡迄麦靓麦韦芳,养胃健脾
+518,气虚厌食、偏食,hangb bongt hxib qhuk,沆笨洗咕,行气消积
+519,血虚厌食、偏食,maix diangl maix ves sul qub,麦靓麦韦素迄,健脾和胃
+520,血虚厌食、偏食,Bud hongt yis hxangd,布笨怡象,补气养血
+521,热经小儿浮肿,pat wos jent caf net,迫渥劫滁内,疏风祛湿
+522,热经小儿浮肿,vas eb yangk angt,洼沃泱安,利水消肿
+523,冷经小儿浮肿,khand vat sand bud diuf,汗吾汕布丢,滋肝补肾
+524,冷经小儿浮肿,bud hongt yis hxangd,布笨怡象,补气养血
+525,冷邪厚皮症,bxeb seix zangl seil,荷筛漳赊,温通散寒
+526,冷邪厚皮症,vex hxangd rek dud,维象任杜,活血润肤
+527,冷经气虚血少厚皮症,bud hongt yis hxangd,布笨怡象,补气养血
+528,冷经气虚血少厚皮症,bxeb seix zangl seil,荷筛漳赊,温通散寒
+529,热经伤食泻肚,hxib nongx yangx jul ghuk,洗侬烽阶咕,消食化积
+530,热经伤食泻肚,Hxub hxab kib sul qud,旭嘎凯素迄,清热和胃
+531,湿热泻肚,hxub hxab kib caf net,旭嘎凯滁内,清热利湿
+532,湿热泻肚,hxib nongx jul dinx,洗侬阶汀,消食化滞
+533,冷经风寒泻肚,zangl seil hxed diond,漳射荷桐,祛寒温中
+534,冷经风寒泻肚,pat wos jent caf net,迫渥劫滁内,疏风利湿
+535,冷病虚弱泻肚,hxed qub zangl seil,荷迄漳射,温胃散寒
+536,冷病虚弱泻肚,maix diangl maix ves hxed dionb,麦靓麦韦苏荷桐,健脾补中
+537,冷病肠胃虚弱夜哭,hxed qub zangl seil,荷迄漳射,温胃散寒
+538,冷病肠胃虚弱夜哭,maix diangl maix ves hxed dionb,麦靓麦韦丹荷桐,健脾补中
+539,冷病血虚夜哭,bud hongt yis hxangd,布笨怡象,补气养血
+540,冷病血虚夜哭,dangf dliud dius vangx diongk,挡琉停网亭,养心安神
+541,冷病小儿中邪夜哭,dangf dangf dins vangx diongk,宕挡停网亭,镇静安神
+542,热经血热夜哭,senb hxangd vex hxangd,赊象维象,凉血活血
+543,热经血热夜哭,dangf dangf dins vangx diongk,宕挡停网亭,镇静安神
+544,小儿脱发,khand vat sand bub,汗吾汕布丢,补肝补肾
+545,小儿脱发,bud hongt yis hxangd,布笨怡象,补气养血
+546,婴儿热经吐奶,hxub hxab kib sul qud,旭嘎凯素迄,清热和胃
+547,婴儿热经吐奶,dangf od,挡哦,止呕
+548,婴儿冷经吐奶,zangl seil hxed diond,漳射荷桐,祛寒温中
+549,婴儿冷经吐奶,dangf od,挡哦,止呕
+550,奶积停食,hangb bongt hxib qhuk,沆笨洗咕,行气消积
+551,奶积停食,hxib nongx yangx jul ghuk,洗侬律阶咕,消食化积
+552,五谷停食,hxib nongx yangx jul ghuk,洗侬烽阶咕,消食化积
+553,五谷停食,maix diangl maix ves sul qub,麦靓麦韦素迄,健脾和胃
+554,热经婴儿胎黄,hxub hxub kib caf net,旭嘎凯滁内,清热利湿
+555,冷经婴儿胎黄,maix diangl maix ves nait caf net,麦靓韦麦芳滁内,健脾除湿
+556,小儿流口水,hxub hxab kib tad jab,旭嘎凯沓痂,清热解毒
+557,小儿流口水,maix diangl maix ves nait caf net,麦靓韦麦芳滁内,健脾除湿
+558,小儿遗尿,bud diub dsangb got lol,布丢渗戈洛,补肾固涩
+559,小儿关节肿痛,pat wos jent caf net,迫渥劫滁内,疏风祛湿
+560,小儿关节肿痛,veshxia scix loud,维洗赊洛,舒经通络
+561,水痘轻症,hxub hxab kib tad jab,旭嘎凯沓痂,清热解毒
+562,水痘轻症,pat wos jent caf net,迫渥劫滁内,疏风祛湿
+563,水痘重型,hxub hxab kib tad jab,旭嘎凯沓痂,清热解毒
+564,水痘重型,khangd vut hvent qeb jiand,汗吾渥曲靳,滋阴生津
+565,热经衬耳癀,hxub hxab kib tad jab,旭嘎凯沓痂,清热解毒
+566,热经衬耳癀,ves sand vas zend,维汕洼診,疏肝利胆
+567,热经癀毒窜耳,hxub hxab kib tad jab,旭嘎凯沓痂,清热解毒
+568,热经癀毒窜耳,zangl diod hxangd yangk angt,漳丢象泱安,散瘀消肿
+569,冷热并病串串咳,hxub hxab kib tad jab,旭嘎凯沓痂,清热解毒
+570,冷热并病串串咳,xeeb hfad nais pob dangf ngol,卸复奈波挡苟,宣肺止咳
+571,热经串串咳,hxub hxab kib tad jab,旭嘎凯沓痂,清热解毒
+572,热经串串咳,xeeb hfud nais pob dangf ngol,卸复奈波挡苟,清肺止咳
+573,串串咳恢复期,bud hongt yis hxangd,布笨怡象,补气养血
+574,串串咳恢复期,red hfad nais pot dangf ngol,任复奈波挡苟,润肺止咳
+575,小儿疔子,pot wos jent zangl zet,迫渥劫漳止,疏散风热
+576,小儿疔子,Senb hxangd tad jab,赊象沓痂,凉血解毒
+577,热经红白痢,hxub hxab kib caf net,旭嘎凯滁内,清热利湿
+578,热经红白痢,dangf lid dangf zat,挡痢挡渣,止痢止泻
+579,热经毒痢,hxub hxab kib tad jab,旭嘎凯沓痂,清热解毒
+580,冷经下痢,hangb bongt sul qub,沆笨素迄,行气和胃
+581,冷经下痢,quk liand dangf lid,苣敛挡痢,收敛止痢
+582,风毒火眼,pot wos jent zangl zet,迫渥劫漳止,疏散风热
+583,风毒火眼,yank kib dangf mongb,泱向挡蒙,消炎止痛
+584,热毒火眼,hxub hxab kib tad jab,旭嘎凯沓痂,清热解毒
+585,热毒火眼,yank kib dangf mongb,泱扃挡蒙,消炎止痛
+586,热经淋病,hxub hxab kib senb hxangd,旭嘎凯赊象,清热凉血
+587,热经淋病,caf net tongb jel,滁内通诘,利湿通淋
+588,冷经淋病,khangk vut hvent tongb jel,汗吾窝通诘,补益通淋
+589,热经黄疸,,,清热除湿退黄
+590,热经黄疸,xub hxab kib caf net,旭嘎凯滁内,清热利湿
+591,热经黄疸,tak fangx,踏仿,退黄
+592,冷经黄疸,tad jab sul qud,沓痂素迄,利湿和胃
+593,冷经黄疸,tak fangx,踏仿,退黄
+594,手脚癣,tad jab zaod net,沓痂造内,解毒燥湿
+595,手脚癣,dias jent dangf qut qat,滇劫挡祛卡,祛风止痒
+596,甲癣,tad jab did gangb,沓痂抵港,解毒杀虫
+597,热经水臌病,hangb bongt diod hxangd,沆笨丢象,行气化瘀
+598,热经水臌病,vas eb,洼沃,利水
+599,冷经水臌病,,,攻下利水
+600,热经胃痛,hxub hxab kib sul qud,旭嘎凯素迄,清热和胃
+601,热经胃痛,hxib nongx yan- gx jul ghuk,洗侬样阶咕,消食化积
+602,冷经胃痛,maix diongf maix ves sul qub,麦靓麦韦素迄,健脾和胃
+603,冷经胃痛,hxib nongx yangx jul ghuk,洗侬烽阶咕,消食化积
+604,冷经俗象,hxib nongx yangx jul ghuk,洗侬烽阶咕,消食化积
+605,冷经俗象,hxed qub zangl seil,荷迄漳射,温胃散寒
+606,冷经俗象,maix diangl maix ves hxed dionb,麦靓麦韦芳荷桐,健脾补中
+607,热经俗象,hxib nongx jul dinx,洗侬阶汀,消食化滞
+608,热经俗象,tit bongt sul qub,替笨素迄,理气和胃
+609,热经俗象,dangf dliud dius vangx diongk,挡琉停网亭,养心安神
+610,热经吐酸水,ves sand sul qub,维汕素迄,疏肝和胃
+611,热经吐酸水,hxib nongx yangx jul ghuk,洗侬烽阶咕,消食化积
+612,冷病吐酸水,hxed qub zangl seil,荷迄漳射,温胃散寒
+613,大肠热疾,ves sand sul qub,维汕素迄,疏肝行气
+614,大肠热疾,hxub hxab kib caf net,旭嘎凯滁内,清热利湿
+615,大肠热疾,dangf mongb,挡蒙,止痛
+616,肚肠疼痛早期,hxub hxab kib tad jab,旭嘎凯沓痂,清热解毒
+617,肚肠疼痛早期,yank kib dangf mongb,泱痢挡蒙,消炎止痛
+618,肚肠疼痛晚期,tit bongt xud jab,替笨墟痕,行气排毒
+619,肚肠疼痛晚期,ves hxangd yangx diod hxangd,维象烽丢象,活血化瘀
+620,热病打嗝,hxub hxab kib,旭嘎凯,清热
+621,热病打嗝,des bongt,滴笨,顺气
+622,热病打嗝,baix nib,摆逆,降逆
+623,冷病打嗝,kxed dionb yis qub,荷相怡迄,温中养胃
+624,冷病打嗝,baix nib,摆逆,降逆
+625,嘈杂热心痛（Mongb dliud kiad蒙秀凯）,hxub hxub kib caf net,旭嘎凯滁内,清热除湿
+626,嘈杂热心痛（Mongb dliud kiad蒙秀凯）,maix diangl maix ves sul qub,麦靓麦韦素迄,健脾和胃
+627,嘈杂冷心痛（Hongb dliud seil蒙秀赊）,maix diangl maix ves sul qub,麦靓麦韦素迄,健脾和胃
+628,嘈杂冷心痛（Hongb dliud seil蒙秀赊）,yis hvent xongt fangb dab,怡渥雄访达,养阴扶阳
+629,嘈杂血虚痛,yis qub maix dliangl maix ves nait,怡迄麦靓麦韦芳,养胃健脾
+630,嘈杂血虚痛,bud hongt yis hxangd,布笨怡象,补气养血
+631,尿甜症,hxub hxab kib dangf ngas ghongd,旭嘎凯挡嘎候,清热止渴
+632,尿甜症,sul qub dangf ngas ghang,素迄挡嘎候,清胃止渴
+633,热病呕吐,khangd vut qub,汗吾迄,和胃
+634,热病呕吐,dangf od,挡阿,止呕
+635,冷病呕吐,bud bongt baix nib,布笨摆逆,益气降逆
+636,冷病呕吐,dangf od,挡阿,止呕
+637,热经小便困难,hxub hxab kib tad jab,旭嘎凯沓痂,清热解毒
+638,热经小便困难,dod vas jut,达洼居,通利小便
+639,冷经小便困难,kxed diond zangl seil,荷桐漳射,温中散寒
+640,冷经小便困难,bub du,任布丢,补肾
+641,冷经小便困难,dod vas jut,达洼居,通利小便
+642,骨折Lod hsongd骼冲又称Dus hsongd都冲,ves hxangd yangx diod hxangd,维象样丢象,活血化瘀
+643,骨折Lod hsongd骼冲又称Dus hsongd都冲,seix loud dangf mongb,赊洛挡蒙,通络止痛
+644,骨折Lod hsongd骼冲又称Dus hsongd都冲,,,活血通络生新
+645,骨折Lod hsongd骼冲又称Dus hsongd都冲,veshxia scix loud,维洗赊洛,舒经通络
+646,骨折Lod hsongd骼冲又称Dus hsongd都冲,bud hongt yis hxangd,布笨怡象,补气养血
+647,手腕扭伤Ghab ghongd bil wes mongb嘎分别乌蒙,vex hxid vex hxangd yangx,维洗维象烽,疏筋活血
+648,手腕扭伤Ghab ghongd bil wes mongb嘎分别乌蒙,bangb bongt dangf mangd,沆笨挡象,行气止痛
+649,颈部扭伤 Mongb ghab ghongd · jangd dlangb 蒙嘎宫·浆桑,vex hxid vex hxangd yangx,维洗维象烽,疏筋活血
+650,颈部扭伤 Mongb ghab ghongd · jangd dlangb 蒙嘎宫·浆桑,hangb bongt dangf mongd,沆笨挡蒙,行气止痛
+651,手道拐（肘关节）扭伤Ghus lius hxenb hsongd hsad嘎别沙松康,veshxia scix loud,维洗赊洛,舒经通络
+652,手道拐（肘关节）扭伤Ghus lius hxenb hsongd hsad嘎别沙松康,zangl zent dangf mongb,漳砧挡象,散结止痛
+653,肩膀（肩关节）扭伤Guf jil dib yens告尖抵茵,veshxia scix loud,维洗赊洛,舒经通络
+654,肩膀（肩关节）扭伤Guf jil dib yens告尖抵茵,zang diod hxangb dangf mongf,漳丢象挡蒙,散瘀止痛
+655,腰扭伤Ghab diub liux mongb嘎丢溜象,veshxia seix loud,维洗赊洛,疏经通络
+656,腰扭伤Ghab diub liux mongb嘎丢溜象,hangb bongt dangf mon- gd,沆笨挡蒙,行气止痛
+657,膝关节扭伤Hfud mes liux mongb虎没溜象,ves hxangd yangx diod hxangd,维角烽丢象,活血化瘀
+658,膝关节扭伤Hfud mes liux mongb虎没溜象,hangb bongt dangf mongd,沆笨挡蒙,行气止痛
+659,螺丝拐（踝关节）扭伤Git gheib lob wes mongb抵尖洛乌蒙,vex hxid vex hxangd yangx,维洗维象律,疏筋活血
+660,螺丝拐（踝关节）扭伤Git gheib lob wes mongb抵尖洛乌蒙,hangb bongt dangf mongd,沆笨挡蒙,行气止痛
+661,跌打损伤,bxeb seix zangl seil,荷筛漳赊,温通散寒
+662,跌打损伤,zang diod hxangb dangf mongf,漳丢象挡蒙,散瘀止痛
+663,冷病血虚劳伤,khand vat sand bub,汗吾汕布丢,补肝补肾
+664,冷病血虚劳伤,bud hongt yis hxangd,布笨怡象,补气养血
+665,热病胃肠虚弱劳伤,maix diangl maix ves sul qub,麦靓麦韦素迄,健脾和胃
+666,热病胃肠虚弱劳伤,bud hongt yis hxangd,布笨怡象,补气养血
+667,热经肺虚劳伤,,,补肾润肺
+668,冷经肾虚劳伤,khand vat sand bud diuf,汗吾汕布丢,滋肝补肾
+669,冷经肾虚劳伤,bud hongt yis hxangd,布笨怡象,补气养血
+670,热经痿症,hxub hxad kik seix loud,旭嘎凯赊洛,清热通经脉
+671,热经痿症,ves hxid jongt dail hsongd,维洗炯带松,补骨强筋
+672,冷经痿证,khand vat sand bud diuf,汗吾汕布丢,补肝补肾
+673,冷经痿证,ves hxid jongt duil hsongd,维洗炯带松,补骨强筋
+674,热经骨痛,hxub hxab kib tad jab,旭嘎凯沓痂,清热解毒
+675,热经骨痛,xud bus hxib ob nul,墟布洗欧权,排脓消痈
+676,热经骨痛,dangf mongb,挡蒙,止痛
+677,冷经骨痛,dias las qeb ghab jid,滇喇曲哈儿,祛腐生肌
+678,冷经骨痛,bud hongt yis hxangd,布笨怡象,补气养血
+679,热经臁疮,hxub hxab kib tad jab,旭嘎凯沓痂,清热解毒
+680,热经臁疮,vas eb dangf qut qat,洼内挡祛卡,利湿止痒
+681,冷经臁疮,Bud hongt yis hxangd,布笨怡象,补气养血
+682,冷经臁疮,Veshxia scix loud,维洗赊洛,舒经通络
+683,冷经骨质增生,,,补肾
+684,冷经骨质增生,,,活血化瘀
+685,热经骨质增生,veshxia scix loud,维洗赊洛,舒经通络
+686,热经骨质增生,tit bongt dangf mongb,替笨挡蒙,理气止痛
+687,热经血热瘀阻麻木,ves hxangd yangx diod hxangd,维象样丢象,活血化瘀
+688,热经血热瘀阻麻木,hangb diod hxangd,沆毛象,行瘀
+689,风湿麻木,dias jent seix loud,滇劫赊洛,祛风通络
+690,风湿麻木,vex hxid vex hxangd yangx,维洗维象律,疏筋活血
+691,冷病血虚麻木,bud hongt yis hxangd,布笨怡象,补气养血
+692,冷病血虚麻木,ves hxid seix Loud,维洗赊洛,疏筋活络
+693,冷经血虚麻木,bud hongt yis hxangd,布笨怡象,补气养血
+694,冷经血虚麻木,vex hxangd yangx rek dud,维象律任杜,活血润肤
+695,妇人热病经来花癫,dangf dliud dius vangx diongk,挡琉停网亭,养心安神
+696,妇人热病经来花癫,bud bongt yis hxent,布笨怡渥,补气养阴
+697,妇入热经心神不定花癫,dangf dliud dius vangx diongk,挡琉停网亭,养心安神
+698,妇入热经心神不定花癫,khangd vut hvent baix dul,汗吾窝摆都,滋阴降火
+699,妇入热经肝火旺盛花癫,hxub hxub kib caf moud,旭嘎凯滁穆,清热除烦
+700,妇入热经肝火旺盛花癫,bud hongt yis hxangd,布笨怡象,补气养血
+701,热病痰迷心神,dangf dangf dins vangx diongk,宕挡停网亭,镇静安神
+702,热病痰迷心神,dias ghab ngal tongb qiaod,滇哈格通窍,化痰通窍
+703,热经失眠,ves sand dlax kid,维汕拉凯,疏肝泻火
+704,热经失眠,yix hxangd bud bongt,怡象布笨,养血益气
+705,热经失眠,vangx diongk,停网亭,安神
+706,冷经失眠,,,益气养血
+707,冷经失眠,,,安神
+708,热经忧郁,tit bongt,替笨,理气
+709,热经忧郁,dlax kid,拉凯,泻火
+710,热经忧郁,ghangb yub,夯宇,开郁
+711,冷经忧郁,dangf dliud dins vangx diongk,挡琉停网亭,宁心安神
+712,多睡病,maix dliangl maix ves nait,麦靓麦韦芳,健脾
+713,多睡病,tit bongt,替笨,益气
+714,多睡病,xongt fangb dab,雄访达,扶阳
+715,冷经头痛,Dias jent dangf mongd,滇劫挡蒙,祛风止痛
+716,冷经头痛,bxeb seix zangl seil,荷筛漳射,温通散寒
+717,冷经头痛,dangf mongb,挡蒙,止痛
+718,热经头痛,bxeb seix zangl seil,荷筛漳射,温通散寒
+719,热经头痛,dangf mongb,挡蒙,止痛
+720,热经胁痛,tit bongt dangf mongb,替笨挡蒙,理气止痛
+721,冷经胁痛,ves hxangd yangx diod hxangd,维象洋丢象,活血化瘀
+722,冷经胁痛,tit bongt dongf mongb,替笨挡蒙,理气止痛
+723,冷病气虚痛肾,bud hongt yis hxangd,布笨怡象,补气养血
+724,冷病气虚痛肾,vas eb yangk angt,洼沃泱安,利水消肿
+725,热经风热痛肾,pot wos jent tad biaox,迫渥劫沓标,疏风解表
+726,热经风热痛肾,vas eb yangk an- gt,洼沃泱安,利水消肿
+727,热经湿热痛肾,hxub hxab kib caf net,旭嘎凯滁内,清热利湿
+728,热经湿热痛肾,dod vas jut,达洼居,通利小便
+729,前额头痛,yis hvent xongt fangb dab,怡渥雄访达,养阴扶阳
+730,前额头痛,hangb bongt dangf mongd,沆笨挡蒙,行气止痛
+731,冷病气虚痛鼻,yis hvent bud bongt,怡渥布笨,养阴益气
+732,冷病气虚痛鼻,tit bongt bxeb seix,替笨荷筛,理气温通
+733,热经痛鼻,hxub hxab kib tad jab,旭嘎凯沓痂,清热解毒
+734,热经痛鼻,senb hxangd tongb giaod,赊象通窍,凉血通窍
+735,热病疽症,hxub hxab kib tad jab,旭嘎凯沓痂,清热解毒
+736,热病疽症,xud bus hxib ob nul,墟布洗欧权,排脓消痈
+737,冷病疽症,hxub hxub kib caf net,旭嘎凯滁内,清热除湿
+738,冷病疽症,dias las qeb ghab jid,滇喇曲哈儿,祛腐生肌
+739,冷经气血两虚疽症,dias las qeb ghab jid,滇喇曲哈儿,祛腐生肌
+740,冷经气血两虚疽症,xud bus hxib ob nul,墟布洗欧权,排脓消痈
+741,热经痛蛾子（Nad mongb ghab ghongd ngal拉蒙嘎宫昂）,hxub hxab kib tad jab,旭嘎凯沓痂,清热解毒
+742,热经痛蛾子（Nad mongb ghab ghongd ngal拉蒙嘎宫昂）,zangl diod hx- angd yangk angt,漳丢象泱安,散瘀消肿
+743,冷经痛蛾子（Mik mongb ghab ghongd ngol纳蒙嘎宫昂）,yis hvent bud bongt,怡渥布笨,养阴益气
+744,冷经痛蛾子（Mik mongb ghab ghongd ngol纳蒙嘎宫昂）,vex hxangl yangk angt,维象泱安,活血消肿
+745,热经气郁声音嘶哑,ves sand bud bongt,维汕布笨,疏肝补气
+746,热经气郁声音嘶哑,ghangb yub xeeb hfud nais pob,夯宁卸复奈波,开郁利肺
+747,热经痰湿粑喉嘶哑,hxub hxab kib rek hfad nais pob,旭嘎凯任复奈波,清热润肺
+748,热经痰湿粑喉嘶哑,hxub hxab vas ngangl ghongd,旭嘎洼嘎宏,清利咽喉
+749,热经风毒犯肺嘶哑,jul ghad ngol vas ngangl,阶哈格洼嘎,化痰利咽
+750,热经风毒犯肺嘶哑,pot wos jent zangl zet,迫渥劫漳止,疏散风热
+751,冷经伤水伤神嘶哑,khangd vut hvent qeb jiand,汗吾渥曲靳,滋阴生津
+752,冷经伤水伤神嘶哑,tit hfud nais pob qeb jind,替呼奈波曲靳,清肺生津
+753,冷经伤气嘶哑,khangd vut hvent rek hfad nais pob,汗吾渥任复奈波,滋养润肺
+754,冷经伤气嘶哑,bud diuf,布丢,补肾
+755,眼胞肿痛,hxub hxab kib caf net,旭嘎凯滁内,清热利湿
+756,眼胞肿痛,dias jent tad jab,滇劫沓痂,祛风解毒
+757,热经咽炎（los lik ghongd洛宁宫）,hxub hxab kib tad jab,旭嘎凯沓痂,清热解毒
+758,热经咽炎（los lik ghongd洛宁宫）,ves hxangd yan- gx diod hxangd,维象洋丢象,活血化瘀
+759,冷经咽炎（mik mongb lik ghongd迷蒙宁宫）,khangd vut hvent baix dul,汗吾窝摆都,滋阴降火
+760,冷经咽炎（mik mongb lik ghongd迷蒙宁宫）,xeeb hfud nais pob dangf ngol,卸复奈波挡苟,清肺止咳
+761,胸痛,tit bongt,替笨,理气
+762,胸痛,seix loud,赊洛,通络
+763,胸痛,dangf mongb,挡蒙,镇痛
+764,冷病肾虚腰腿疼痛,Khand vat sand bub,汗吾汕布丢,补肝补肾
+765,冷病肾虚腰腿疼痛,khangd vut hvent baix dul,汗吾窝摆都,滋阴降火
+766,冷病水湿腰腿疼痛,dias jent caf net,滇劫滁内,祛风除湿
+767,冷病水湿腰腿疼痛,veshxia scix loud,维洗赊洛,舒经通络
+768,热病气血阻滞腰腿疼痛,ves hxangd yangx diod hxangd,维角烽丢象,活血化瘀
+769,热病气血阻滞腰腿疼痛,Tit bongt dangf mongb,替笨挡蒙,理气止痛
+770,热病湿热腰腿痛,hxub hxab kib caf net,旭嘎凯滁内,清热利湿
+771,热病湿热腰腿痛,tit bongt dangf mongb,替笨挡蒙,理气止痛
+772,热经喉痛,pot wos jent zangl zet,迫渥劫漳止,疏散风热
+773,热经喉痛,vas ngangl dangf mongb,洼嘎挡蒙,利咽止痛
+774,冷经喉痛,hxub hxab kib caf net,旭嘎凯滁内,清热利湿
+775,冷经喉痛,yank kib dangf mongb,泱痢挡蒙,消炎止痛
+776,疔疮,hxub hxab kib tad jab,旭嘎凯沓痂,清热解毒
+777,疔疮,ves hx- angd yangx diod hxangd,维象洋丢象,活血化瘀
+778,疔疮,hxub hxab kib tad jab,旭嘎凯沓痂,清热解毒
+779,疔疮,zangl zent dangf mongb,漳砧挡蒙,散结止痛
+780,疔疮,bud hongt yis hxangd,布笨怡象,补气养血
+781,疔疮,tit bongt sul qub,替笨素迄,理气和胃
+782,冷经腰痛,yis hxangd bud diuf,怡象布丢,养血补肾
+783,冷经腰痛,dias jent zangl seil,滇劫漳射,祛风散寒
+784,冷经腰痛,bxeb seix dungf mongb,荷赊挡蒙,温经止痛
+785,热经腰痛,caf net,滁内,除湿
+786,热经腰痛,vex hxangd,维象,活血
+787,热经腰痛,dangf mongb,挡蒙,止痛
+788,热经水毒口疮病,hxub hxab kib caf net,旭嘎凯滁内,清热利湿
+789,热经水毒口疮病,senb hxangd dangf mongb,赊象挡象,凉血止痛
+790,热经湿热口疮病,hxub hxab kib tad jab,旭嘎凯沓痂,清热解毒
+791,热经湿热口疮病,senb hxangd vex hxangd,赊象维象,凉血活血
+792,冷病赖洛连江岗（冷病复发性口腔炎）,khangd vut hvent baix dul,汗吾窝摆都,滋阴降火
+793,冷病赖洛连江岗（冷病复发性口腔炎）,yank kib dangf mongb,泱疳挡蒙,消炎止痛
+794,热病赖洛连江岗（热病复发性口腔炎）,khangd vut hvent baix dul,汗吾窝摆都,滋阴降火
+795,热病赖洛连江岗（热病复发性口腔炎）,yank kib dangf mongb,泱痫挡蒙,消炎止痛
+796,舌开裂,khangd vut hvent qeb jiand,汗吾渥曲靳,滋阴生津
+797,舌开裂,dlax kid tad jab,拉凯沓痂,泻火解毒
+798,牙痛,hxub hxab kib tad jab,旭嘎凯沓痂,清热解毒
+799,牙痛,yank kib dangf mongb,泱疳挡蒙,消炎止痛
+800,丹毒,hxub hxab kib caf net,旭嘎凯滁内,清热利湿
+801,丹毒,senb hxangd tad jab,赊象沓痂,凉血解毒
+802,眼边溃烂,hxub hxab kib tad jab,旭嘎凯沓痂,清热解毒
+803,眼边溃烂,dias jent caf net,滇劫滁内,祛风除湿
+804,湿热黄水疮,hxub hxab kib tad jab,旭嘎凯沓痂,清热解毒
+805,湿热黄水疮,vas eb dangf qut qat,洼内挡祛卡,利湿止痒
+806,冷病气虚血虚黄水疮,maix dliangl maix ves nait caf net,麦靓韦麦芳滁内,健脾除湿
+807,冷病气虚血虚黄水疮,dias jent dangf qut qat,滇劫挡祛卡,祛风止痒
+808,粉刺,,,清肺肾之火
+809,牛皮癣,ves hxangd yangx diod hxangd,维象律丢象,活血化瘀
+810,牛皮癣,dias jent dangf qut qat,滇劫挡祛卡,祛风止痒
+811,眼生挑针,hxub hxab kib tad jab,旭嘎凯沓痂,清热解毒
+812,眼生挑针,pot wos jent zan- glzet,迫渥劫漳止,疏散风热
+813,风毒白眼珠肿痛,hxub hxab kib tad jab,旭嘎凯沓痂,清热解毒
+814,风毒白眼珠肿痛,pot wos jent zan- gl zet,迫渥劫漳止,疏散风热
+815,热毒白眼珠肿痛,hxub hxab kib tad jab,旭嘎凯沓痂,清热解毒
+816,热毒白眼珠肿痛,hxub hxab sand baix dul,旭嘎汕渣都,清肝泻火

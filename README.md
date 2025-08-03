@@ -1,9 +1,9 @@
-毕业设计
+### 对数据进行预处理
 
-```cypher
-// 删除重复关系
-MATCH (a)-[r:relationship]->(b)
-WITH a, b, TAIL (COLLECT (r)) as rr
-WHERE size(rr)>0
-FOREACH (r IN rr | DELETE r)
-```
+已处理：
+
+- [ ] 中国民族药
+- [x] 苗族常用植物药
+- [x] 苗药方剂学 还差effect.csv没处理
+- [x] 苗族医学
+- [ ] 苗家实用药方
